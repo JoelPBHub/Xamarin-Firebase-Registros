@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UltimaPractica.Vista.PracticeF">
+
+<ContentPage.Content>
+   
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                HorizontalOptions="CenterAndExpand" 
+                   VerticalOptions="Center"/>
+
+            <Label Text="Código"/>
+            <Entry Placeholder="Codigo" x:Name="txtCodigo" Keyboard="Numeric"/>
+            
+            <Label Text="Nombre de la Pieza"/>
+            <Entry Placeholder="Nombre de la Pieza" x:Name="txtPieza"/>
+
+            <Label Text="Nombre del Proveedor"/>
+            <Entry Placeholder="Nombre del Proveedor" x:Name="txtProveedor"/>
+
+            <Label Text="Precio"/>
+            <Entry Placeholder="Precio" x:Name="txtPrecio" Keyboard="Numeric"/>
+
+            <Button Text="Agregar" x:Name="BtnAgregar" Clicked="BtnAgregar_Clicked" 
+                    TextColor="Black" 
+                    BorderColor="Black"  
+                    BackgroundColor="Purple"/>
+
+        </StackLayout>
+ 
+    </ContentPage.Content>
+
+</ContentPage>

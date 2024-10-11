@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Universidad O&M\O&M #7\Programación en Móviles\Práctica\Práctica #1\UltimaPractica\UltimaPractica\obj\Debug\netstandard2.0\UltimaPractica.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Universidad O&M\O&M #7\Programación en Móviles\Práctica\Práctica #1\UltimaPractica\UltimaPractica\obj\Debug\netstandard2.0\UltimaPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Universidad O&M\O&M #7\Programación en Móviles\Práctica\Práctica #1\UltimaPractica\UltimaPractica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\Universidad O&M\O&M #7\Programación en Móviles\Práctica\Práctica #1\UltimaPractica\UltimaPractica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Documents\Universidad O&M\O&M #7\Programación en Móviles\Práctica\Práctica #1\UltimaPractica\UltimaPractica\obj\Debug\netstandard2.0\UltimaPractica.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Universidad O&M\O&M #7\Programación en Móviles\Práctica\Práctica #1\UltimaPractica\UltimaPractica\obj\Debug\netstandard2.0\UltimaPractica.AssemblyInfo.cs
+C:\Users\User\Documents\Universidad O&M\O&M #7\Programación en Móviles\Práctica\Práctica #1\UltimaPractica\UltimaPractica\obj\Debug\netstandard2.0\UltimaPractica.csproj.CoreCompileInputs.cache
